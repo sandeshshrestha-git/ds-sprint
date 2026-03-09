@@ -1,0 +1,7 @@
+# Ignore all datasets
+*.csv
+*.xlsx
+*.json
+
+# Except my own created files
+!Pandas/myData/cows_goats.csv
